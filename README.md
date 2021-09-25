@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+<h2>Search Popular Movies</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Teste: https://pop-movies-project.netlify.app/
 
-## Available Scripts
+<p align="center">
+  <a href="https://imgur.com/57PbV3f"><img src="https://i.imgur.com/57PbV3f.png" title="source: imgur.com" /></a>
+</p>
+<h1 align="center">
+    <a href="https://imgur.com/j8XYwDk"><img src="https://i.imgur.com/j8XYwDk.png" title="source: imgur.com" /></a>
+</h1>
 
-In the project directory, you can run:
+<br>
 
-### `yarn start`
+## ⚡ Tecnologias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [React](https://reactjs.org)
+- [Netlify](https://www.netlify.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-### `yarn test`
+## 🚀 Como executar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone o projeto e acesse a pasta do mesmo.
 
-### `yarn build`
+```bash
+$ git clone https://github.com/FilipiMachado/popular-movies-react
+$ cd popular-movies-react
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Iniciar o projeto
+$ npm start
+```
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Lembrando que será necessário criar uma conta no [Netlify](https://www.netlify.com/) para hospedar seu app.
 
-### `yarn eject`
+## 💻 Projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+O Search Popular Movies foi desenvolvido por Thomas Weibenfalk, durante o curso completo oferecido pela freeCodeCamp no youtube.                                                                                                           
+## 📝 License
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<hr>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<h2>Search Popular Movies</h2>
 
-## Learn More
+Test: https://pop-movies-project.netlify.app/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="center">
+  <a href="https://imgur.com/57PbV3f"><img src="https://i.imgur.com/57PbV3f.png" title="source: imgur.com" /></a>
+</p>
+<h1 align="center">
+    <a href="https://imgur.com/j8XYwDk"><img src="https://i.imgur.com/j8XYwDk.png" title="source: imgur.com" /></a>
+</h1>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br>
 
-### Code Splitting
+## ⚡ Technologies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This project was developed using this technologies:
 
-### Analyzing the Bundle Size
+- [React](https://reactjs.org)
+- [Netlify](https://www.netlify.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🚀 How to Execute
 
-### Making a Progressive Web App
+Clone the project and access the folder.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+$ git clone https://github.com/FilipiMachado/popular-movies-react
+$ cd popular-movies-react
+```
 
-### Advanced Configuration
+To start, follow this steps:
+```bash
+# Install the dependencies
+$ npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Start the project
+$ npm start
+```
+The app will be available in this address http://localhost:3000.
 
-### Deployment
+Remember, you need a account at [Netlify](https://www.netlify.com/) to host this app.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 💻 Project
 
-### `yarn build` fails to minify
+The Search Popular Movies was developed by Thomas Weibenfalk, during the course offered by freeCodeCamp on Youtube.                                                                                                           
+## 📝 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is under MIT licensa. Read this file [LICENSE](LICENSE.md) for more details.
