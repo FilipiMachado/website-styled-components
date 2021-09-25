@@ -1,10 +1,10 @@
 <h2>Website with Styled-Components</h2>
 
 <p align="center">
-  <a href="https://imgur.com/57PbV3f"><img src="https://i.imgur.com/57PbV3f.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/IvZcfii"><img src="https://i.imgur.com/57PbV3f.png" title="source: imgur.com" /></a>
 </p>
 <h1 align="center">
-    <a href="https://imgur.com/j8XYwDk"><img src="https://i.imgur.com/j8XYwDk.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/x3SAj0j"><img src="https://i.imgur.com/j8XYwDk.png" title="source: imgur.com" /></a>
 </h1>
 
 <br>
@@ -37,7 +37,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-Projeto realizado visando aperfeiçoar técnicas e aprender novas tecnologias como styled-components                                                                                                           
+Projeto realizado visando aperfeiçoar técnicas e aprender novas tecnologias como styled-components.                                                                                                       
 ## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
