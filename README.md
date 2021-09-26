@@ -1,10 +1,10 @@
 <h2>Website with Styled-Components</h2>
 
 <p align="center">
-  <a href=""><img src=".png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/eYfzn65"><img src="https://imgur.com/eYfzn65.png" title="source: imgur.com" /></a>
 </p>
 <h1 align="center">
-    <a href=""><img src=".png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/Ex3Ewuh"><img src="https://imgur.com/Ex3Ewuh.png" title="source: imgur.com" /></a>
 </h1>
 
 <br>
